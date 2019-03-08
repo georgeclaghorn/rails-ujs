@@ -1,0 +1,9 @@
+{
+  "name": "@rails/ujs",
+  "version": "6.0.0-beta2",
+  "description": "Ruby on Rails unobtrusive scripting adapter",
+  "main": "rails-ujs.js",
+  "files": ["*.js"],
+  "license": "MIT",
+  "homepage": "http://rubyonrails.org/"
+}
